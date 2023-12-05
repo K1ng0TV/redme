@@ -1,6 +1,6 @@
 PL:
 
-🚀 K1ngoTV Fivem Scripts🌟💻
+🚀 K1ngoTV Fivem Scripts  ESX🌟💻
 
 🧰 Założenia:
 
@@ -15,7 +15,7 @@ Zapraszamy do dyskusji na discordzie na kanale "Chat"
 
 EN:
 
-🚀 K1ngoTV Fivem Scripts 🌟💻
+🚀 K1ngoTV Fivem Scripts ESX 🌟💻
 
 🧰 Principles:
 
